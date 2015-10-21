@@ -14,6 +14,8 @@
         - bartender
         - vmware-fusion
         - tableau
+        - chrome
+        - firefox
     - name: create ssh directory
       become: yes
       file:
