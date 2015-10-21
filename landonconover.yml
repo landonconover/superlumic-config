@@ -49,7 +49,7 @@
     - profile-developer
 
   vars:
-    - computername: Spectr
+    - computername: spectr
     - git_user_name: Landon Conover
     - git_user_email: landon.conover@gmail.com
     - sublime_packages:
