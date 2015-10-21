@@ -17,7 +17,5 @@ dependencies:
   - roderik.superlumic-mysql
   - roderik.superlumic-php
   - roderik.superlumic-sublimetext
-  - roderik.superlumic-skylab
   - roderik.superlumic-node
-  - roderik.superlumic-vim
   - profile-all
