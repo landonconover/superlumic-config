@@ -13,6 +13,7 @@
         - skype
         - bartender
         - vmware-fusion
+        - tableau
     - name: create ssh directory
       become: yes
       file:
