@@ -16,6 +16,7 @@
         - tableau
         - google-chrome
         - firefox
+        - microsoft-office365
     - name: create ssh directory
       become: yes
       file:
