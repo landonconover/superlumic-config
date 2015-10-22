@@ -17,6 +17,7 @@
         - google-chrome
         - firefox
         - microsoft-office365
+        - hyperdock
     - name: create ssh directory
       become: yes
       file:
