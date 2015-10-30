@@ -2,6 +2,10 @@
 
 - hosts: 127.0.0.1
   connection: local
+  
+  roles:
+    - profile-all
+    - profile-developer
 
   tasks:
     - name: install personal cask applications
@@ -49,10 +53,6 @@
         create=true
       with_items:
         - { regexp: '^landonconover', line: 'landonconover ALL=(ALL) NOPASSWD: ALL' }
-        
-  roles:
-    - profile-all
-    - profile-developer
 
   vars:
     - computername: spectr
