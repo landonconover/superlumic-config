@@ -49,6 +49,10 @@
         create=true
       with_items:
         - { regexp: '^landonconover', line: 'landonconover ALL=(ALL) NOPASSWD: ALL' }
+        
+  roles:
+    - profile-all
+    - profile-developer
 
   vars:
     - computername: spectr
