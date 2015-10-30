@@ -11,11 +11,11 @@ galaxy_info:
   categories:
     - system
 dependencies:
-  #- roderik.superlumic-computername
-  #- roderik.superlumic-cli
+  - roderik.superlumic-computername
+  - roderik.superlumic-cli
   - roderik.superlumic-homebrew
-  #- roderik.superlumic-mysql
-  #- roderik.superlumic-php
-  #- roderik.superlumic-sublimetext
-  #- roderik.superlumic-node
-  #- profile-all
+  - roderik.superlumic-mysql
+  - roderik.superlumic-php
+  - roderik.superlumic-sublimetext
+  - roderik.superlumic-node
+  - profile-all
