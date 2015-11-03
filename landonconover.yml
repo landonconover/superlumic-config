@@ -117,7 +117,7 @@
       - domain: 'com.apple.menuextra.clock'
         key: 'DateFormat'
         type: string
-        value: EEE MMM d  HH:mm a
+        value: EEE MMM d  hh:mm a
       - domain: 'com.apple.menuextra.battery'
         key: 'ShowPercent'
         type: string
