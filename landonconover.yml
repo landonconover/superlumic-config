@@ -20,6 +20,7 @@
         - hyperdock
         - pomodone
         - 1password
+        - evernote
     - name: create ssh directory
       become: yes
       file:
@@ -56,7 +57,7 @@
     - profile-developer
 
   vars:
-    - computername: littleSpectr
+    - computername: Spectr
     - git_user_name: Landon Conover
     - git_user_email: landon.conover@gmail.com
     - sublime_packages:
