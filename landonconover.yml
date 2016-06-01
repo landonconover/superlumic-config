@@ -13,13 +13,11 @@
         - skype
         - bartender
         - vmware-fusion
-        - tableau
         - google-chrome
         - firefox
         - microsoft-office365
         - hyperdock
         - pomodone
-        - 1password
         - evernote
     - name: create ssh directory
       become: yes
