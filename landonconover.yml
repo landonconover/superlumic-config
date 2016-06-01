@@ -19,6 +19,8 @@
         - hyperdock
         - pomodone
         - evernote
+        - gopro-studio
+        - gopro
     - name: create ssh directory
       become: yes
       file:
